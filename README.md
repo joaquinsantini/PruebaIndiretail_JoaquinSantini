@@ -39,4 +39,4 @@ Dentro de cada respectiva notebook, se encuentran documentadas algunas decisione
 
 ### Tiempo de Proceso
 
-Las notebooks tienen un tiempo medio de proceso de 10 minutos aproximadamente en el entorno antes descripto.
+Las notebooks tienen un tiempo medio de proceso de 7 minutos aproximadamente en el entorno antes descripto.
